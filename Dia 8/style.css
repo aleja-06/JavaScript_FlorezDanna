@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(86, 68, 102, 0.253);
+    left: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+label{
+    top: 50%;
+    display: flex;
+
+}
