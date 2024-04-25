@@ -46,3 +46,5 @@ console.log (operacion2)
    }
 
    console.log (Grados(5));
+
+   console
